@@ -1,0 +1,709 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "search": [
+        "paypal"
+      ],
+      "code": 36,
+      "uid": "f5281239de27061e68f4367ba3efee15",
+      "css": "paypal",
+      "orig_css": "paypal",
+      "orig_code": 36,
+      "src": "zocial",
+      "from": 36
+    },
+    {
+      "search": [
+        "android"
+      ],
+      "code": 38,
+      "uid": "aaf371ab44841e9aaffebd179d324ce4",
+      "css": "android",
+      "orig_css": "android",
+      "orig_code": 38,
+      "src": "zocial",
+      "from": 38
+    },
+    {
+      "search": [
+        "plus"
+      ],
+      "code": 43,
+      "from": 43,
+      "uid": "44e04715aecbca7f266a17d5a7863c68",
+      "css": "plus",
+      "orig_css": "plus",
+      "orig_code": 43,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "wikipedia"
+      ],
+      "code": 44,
+      "uid": "64c2f859fa518d38db7ec7532855ae34",
+      "css": "wikipedia",
+      "orig_css": "wikipedia",
+      "orig_code": 44,
+      "src": "zocial",
+      "from": 44
+    },
+    {
+      "search": [
+        "minus"
+      ],
+      "code": 45,
+      "from": 45,
+      "uid": "861ab06e455e2de3232ebef67d60d708",
+      "css": "minus",
+      "orig_css": "minus",
+      "orig_code": 45,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "fivehundredpx"
+      ],
+      "code": 48,
+      "uid": "d089814548af1441aa00ecec47851f38",
+      "css": "fivehundredpx",
+      "orig_css": "fivehundredpx",
+      "orig_code": 48,
+      "src": "zocial",
+      "from": 48
+    },
+    {
+      "search": [
+        "html5"
+      ],
+      "code": 53,
+      "uid": "d4d52a448819e8d5e849b8126416b640",
+      "css": "html5",
+      "orig_css": "html5",
+      "orig_code": 53,
+      "src": "zocial",
+      "from": 53
+    },
+    {
+      "search": [
+        "ie",
+        "explorer"
+      ],
+      "code": 54,
+      "uid": "63208f7386b9384ba1291832de6ceee7",
+      "css": "ie",
+      "orig_css": "ie",
+      "orig_code": 54,
+      "src": "zocial",
+      "from": 54
+    },
+    {
+      "search": [
+        "call"
+      ],
+      "code": 55,
+      "uid": "eb2d71e114d99d85b2ae28ab70d981a6",
+      "css": "call",
+      "orig_css": "call",
+      "orig_code": 55,
+      "src": "zocial",
+      "from": 55
+    },
+    {
+      "search": [
+        "ninetyninedesigns"
+      ],
+      "code": 57,
+      "uid": "0aeb6f0ea0d091185f5c775401708aa1",
+      "css": "ninetyninedesigns",
+      "orig_css": "ninetyninedesigns",
+      "orig_code": 57,
+      "src": "zocial",
+      "from": 57
+    },
+    {
+      "search": [
+        "forrst"
+      ],
+      "code": 58,
+      "uid": "2f6ed771cf99f6826343c31ed0b08026",
+      "css": "forrst",
+      "orig_css": "forrst",
+      "orig_code": 58,
+      "src": "zocial",
+      "from": 58
+    },
+    {
+      "search": [
+        "digg"
+      ],
+      "code": 59,
+      "uid": "8625d6e45fba1219638069e21eedbce8",
+      "css": "digg",
+      "orig_css": "digg",
+      "orig_code": 59,
+      "src": "zocial",
+      "from": 59
+    },
+    {
+      "search": [
+        "reddit"
+      ],
+      "code": 62,
+      "uid": "b3a537446285bb3510bba57d20374818",
+      "css": "reddit",
+      "orig_css": "reddit",
+      "orig_code": 62,
+      "src": "zocial",
+      "from": 62
+    },
+    {
+      "search": [
+        "dribbble"
+      ],
+      "code": 68,
+      "uid": "003ba8187d6b00ec3e1ba75d00f1246a",
+      "css": "dribbble",
+      "orig_css": "dribbble",
+      "orig_code": 68,
+      "src": "zocial",
+      "from": 68
+    },
+    {
+      "search": [
+        "flickr"
+      ],
+      "code": 70,
+      "uid": "231eeeedfdda9dd5d03dc8d03060007d",
+      "css": "flickr",
+      "orig_css": "flickr",
+      "orig_code": 70,
+      "src": "zocial",
+      "from": 70
+    },
+    {
+      "search": [
+        "google"
+      ],
+      "code": 71,
+      "uid": "6d6d0efe9717ec2962ef0a77c6210df9",
+      "css": "google",
+      "orig_css": "google",
+      "orig_code": 71,
+      "src": "zocial",
+      "from": 71
+    },
+    {
+      "search": [
+        "rss"
+      ],
+      "code": 82,
+      "uid": "2a3192d0f8fe0c7cf959168e68eb16d8",
+      "css": "rss",
+      "orig_css": "rss",
+      "orig_code": 82,
+      "src": "zocial",
+      "from": 82
+    },
+    {
+      "search": [
+        "dropbox"
+      ],
+      "code": 100,
+      "uid": "d0ce443b8d7376716584f5f660a6bf72",
+      "css": "dropbox",
+      "orig_css": "dropbox",
+      "orig_code": 100,
+      "src": "zocial",
+      "from": 100
+    },
+    {
+      "search": [
+        "gmail"
+      ],
+      "code": 109,
+      "uid": "b49fa3e57e92b38143e0fdcc5d9a904b",
+      "css": "gmail",
+      "orig_css": "gmail",
+      "orig_code": 109,
+      "src": "zocial",
+      "from": 109
+    },
+    {
+      "search": [
+        "location",
+        "mark",
+        "marker"
+      ],
+      "code": 59172,
+      "from": 59172,
+      "uid": "0d08dbb1dd648a43bdea81b7e6c9e036",
+      "css": "location",
+      "orig_css": "location",
+      "orig_code": 59172,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 59228,
+      "from": 59228,
+      "uid": "ccddff8e8670dcd130e3cb55fdfc2fd0",
+      "css": "down-open",
+      "orig_css": "down-open",
+      "orig_code": 59228,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 59229,
+      "from": 59229,
+      "uid": "d870630ff8f81e6de3958ecaeac532f2",
+      "css": "left-open",
+      "orig_css": "left-open",
+      "orig_code": 59229,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 59230,
+      "from": 59230,
+      "uid": "399ef63b1e23ab1b761dfbb5591fa4da",
+      "css": "right-open",
+      "orig_css": "right-open",
+      "orig_code": 59230,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 59231,
+      "from": 59231,
+      "uid": "fe6697b391355dec12f3d86d6d490397",
+      "css": "up-open",
+      "orig_css": "up-open",
+      "orig_code": 59231,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "zoom",
+        "magnify",
+        "scale",
+        "in"
+      ],
+      "code": 61566,
+      "uid": "baaebda77cf391a9d9ecdec4db11dcb7",
+      "css": "zoom-in",
+      "orig_css": "zoom-in",
+      "orig_code": 61566,
+      "src": "mfglabs",
+      "from": 61566
+    },
+    {
+      "search": [
+        "facebook"
+      ],
+      "code": 62208,
+      "meta": {
+        "homepage": "http://www.facebook.com/brandpermissions/logos.php",
+        "author": "Facebook"
+      },
+      "uid": "240979dd9fcf2e46250e66792edb8092",
+      "file": "facebook",
+      "css": "facebook",
+      "orig_css": "facebook",
+      "orig_code": 62208,
+      "src": "brandico",
+      "from": 62208
+    },
+    {
+      "search": [
+        "twitter"
+      ],
+      "code": 62210,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "d611dd319d8c13b4551dc5bd85c1bdfd",
+      "file": "twitter",
+      "css": "twitter",
+      "orig_css": "twitter",
+      "orig_code": 62210,
+      "src": "brandico",
+      "from": 62210
+    },
+    {
+      "search": [
+        "twitter"
+      ],
+      "code": 62211,
+      "meta": {
+        "homepage": "https://twitter.com/about/resources/logos",
+        "author": "Twitter"
+      },
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "file": "twitter-bird",
+      "transform": {
+        "rescale": 0.9,
+        "offset": 0.05
+      },
+      "css": "twitter-bird",
+      "orig_css": "twitter-bird",
+      "orig_code": 62211,
+      "src": "brandico",
+      "from": 62211
+    },
+    {
+      "search": [
+        "icq"
+      ],
+      "code": 62212,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "01f67de2dc0137389f1c3aced6273acd",
+      "file": "icq",
+      "css": "icq",
+      "orig_css": "icq",
+      "orig_code": 62212,
+      "src": "brandico",
+      "from": 62212
+    },
+    {
+      "search": [
+        "yandex"
+      ],
+      "code": 62213,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "b2417d1ce399577d53fff70d54976fea",
+      "file": "yandex",
+      "css": "yandex",
+      "orig_css": "yandex",
+      "orig_code": 62213,
+      "src": "brandico",
+      "from": 62213
+    },
+    {
+      "search": [
+        "github"
+      ],
+      "code": 62215,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "24d1008bf15b6c02a5e7a6af026987dd",
+      "file": "github-text",
+      "css": "github-text",
+      "orig_css": "github-text",
+      "orig_code": 62215,
+      "src": "brandico",
+      "from": 62215
+    },
+    {
+      "search": [
+        "github"
+      ],
+      "code": 62216,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "4a0bb1ac004980bb3837560d4c9e8cee",
+      "file": "github",
+      "transform": {
+        "rescale": 0.9,
+        "offset": 0.05
+      },
+      "css": "github",
+      "orig_css": "github",
+      "orig_code": 62216,
+      "src": "brandico",
+      "from": 62216
+    },
+    {
+      "search": [
+        "google"
+      ],
+      "code": 62217,
+      "meta": {
+        "homepage": "http://www.google.com/+/business/brand-guidelines.html",
+        "author": "Google"
+      },
+      "uid": "626fb97a7c0c0db53a1853fb9e96e223",
+      "file": "googleplus-rect",
+      "css": "googleplus-rect",
+      "orig_css": "googleplus-rect",
+      "orig_code": 62217,
+      "src": "brandico",
+      "from": 62217
+    },
+    {
+      "search": [
+        "vkontakte"
+      ],
+      "code": 62218,
+      "meta": {
+        "homepage": "http://vk.com/help.php?page=about",
+        "author": "Vkontakte"
+      },
+      "uid": "5b16ceef1c8638bd5389c9302ea04098",
+      "file": "vkontakte-rect",
+      "css": "vkontakte-rect",
+      "orig_css": "vkontakte-rect",
+      "orig_code": 62218,
+      "src": "brandico",
+      "from": 62218
+    },
+    {
+      "search": [
+        "skype"
+      ],
+      "code": 62219,
+      "meta": {
+        "homepage": "http://www.alexpeattie.com/projects/justvector_icons/",
+        "author": "Alex Peattie"
+      },
+      "uid": "5a00c877da3f63d37cdc021815e3f5a9",
+      "file": "skype",
+      "css": "skype",
+      "orig_css": "skype",
+      "orig_code": 62219,
+      "src": "brandico",
+      "from": 62219
+    },
+    {
+      "search": [
+        "odnoklassniki"
+      ],
+      "code": 62220,
+      "meta": {
+        "homepage": "http://corp.mail.ru/communications/odnoklassniki",
+        "author": "MailRu Group"
+      },
+      "uid": "229e50061df526f24f1ae884fab52101",
+      "file": "odnoklassniki",
+      "css": "odnoklassniki",
+      "orig_css": "odnoklassniki",
+      "orig_code": 62220,
+      "src": "brandico",
+      "from": 62220
+    },
+    {
+      "search": [
+        "vimeo"
+      ],
+      "code": 62223,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "70cdf244c51630e09038659d1dcbee87",
+      "file": "vimeo",
+      "transform": {
+        "rescale": 0.8,
+        "offset": 0.05
+      },
+      "css": "vimeo",
+      "orig_css": "vimeo",
+      "orig_code": 62223,
+      "src": "brandico",
+      "from": 62223
+    },
+    {
+      "search": [
+        "tumblr"
+      ],
+      "code": 62225,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "076f25da90f45dd112e006f2cd7ea76b",
+      "file": "tumblr",
+      "css": "tumblr",
+      "orig_css": "tumblr",
+      "orig_code": 62225,
+      "src": "brandico",
+      "from": 62225
+    },
+    {
+      "search": [
+        "friendfeed"
+      ],
+      "code": 62226,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "eeec90e0e80f11e1aff10800200c9a66",
+      "file": "friendfeed",
+      "css": "friendfeed",
+      "orig_css": "friendfeed",
+      "orig_code": 62226,
+      "src": "brandico",
+      "from": 62226
+    },
+    {
+      "search": [
+        "blogger"
+      ],
+      "code": 62228,
+      "meta": {
+        "homepage": "https://openclipart.org/",
+        "author": "Open Clip Art Library"
+      },
+      "uid": "303f1f30-eda7-11e1-aff1-0800200c9a66",
+      "file": "blogger",
+      "css": "blogger",
+      "orig_css": "blogger",
+      "orig_code": 62228,
+      "src": "brandico",
+      "from": 62228
+    },
+    {
+      "search": [
+        "deviantart"
+      ],
+      "code": 62230,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "d04790a0ec2d11e1aff10800200c9a66",
+      "file": "deviantart",
+      "transform": {
+        "rescale": 1.2,
+        "offset": -0.025
+      },
+      "css": "deviantart",
+      "orig_css": "deviantart",
+      "orig_code": 62230,
+      "src": "brandico",
+      "from": 62230
+    },
+    {
+      "search": [
+        "jabber"
+      ],
+      "code": 62231,
+      "meta": {
+        "homepage": "http://xmpp.org",
+        "author": "Jabber Software Foundation"
+      },
+      "uid": "466d1430ec2e11e1aff10800200c9a66",
+      "file": "jabber",
+      "css": "jabber",
+      "orig_css": "jabber",
+      "orig_code": 62231,
+      "src": "brandico",
+      "from": 62231
+    },
+    {
+      "search": [
+        "linkedin"
+      ],
+      "code": 62234,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "542e3f055aaa4ddfb9ab3e00397db47f",
+      "file": "linkedin",
+      "css": "linkedin",
+      "orig_css": "linkedin",
+      "orig_code": 62234,
+      "src": "brandico",
+      "from": 62234
+    },
+    {
+      "search": [
+        "picasa"
+      ],
+      "code": 62236,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "d93230ef6fa54fb9805ba4cc9d9af5b1",
+      "file": "picasa",
+      "css": "picasa",
+      "orig_css": "picasa",
+      "orig_code": 62236,
+      "src": "brandico",
+      "from": 62236
+    },
+    {
+      "search": [
+        "wordpress"
+      ],
+      "code": 62237,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "1357ba39f8dc4519949cc4da55226b62",
+      "file": "wordpress",
+      "css": "wordpress",
+      "orig_css": "wordpress",
+      "orig_code": 62237,
+      "src": "brandico",
+      "from": 62237
+    },
+    {
+      "search": [
+        "instagram"
+      ],
+      "code": 62238,
+      "meta": {
+        "homepage": "http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download",
+        "author": "Kyle Mac"
+      },
+      "uid": "dad4e7f8dc2e57c92cffc0231202d9a0",
+      "file": "instagram",
+      "css": "instagram",
+      "orig_css": "instagram",
+      "orig_code": 62238,
+      "src": "brandico",
+      "from": 62238
+    },
+    {
+      "search": [
+        "search",
+        "find",
+        "magnify"
+      ],
+      "code": 62733,
+      "uid": "ec21fe3492bb04d9e29103c319556ed8",
+      "css": "search",
+      "orig_css": "search",
+      "orig_code": 62733,
+      "src": "mfglabs",
+      "from": 62733
+    }
+  ]
+}

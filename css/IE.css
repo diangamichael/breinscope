@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* layout */
+.lower-page {
+position: absolute;
+width: 100%;
+left: 0;
+top: 0;
+margin: 0;
+padding: 0;
+background-attachment: fixed;
+background-image: url(../images/lower-page-bg-IE.png);
+background-position: top;
+background-repeat: repeat;
+}
+
+
+/* countdown */
+ul#countdown li span {
+font-family: 'BebasNeueRegular';
+font-size: 45px;
+font-style: normal;
+font-weight: normal;
+color: #000;
+height: 45px;
+line-height: 45px;
+position: relative;
+}
+
+ul#countdown li p.timeRefDays,
+ul#countdown li p.timeRefHours,
+ul#countdown li p.timeRefMinutes,
+ul#countdown li p.timeRefSeconds {
+font-family: 'BebasNeueRegular';
+color: #000;
+text-shadow: none;
+text-transform: uppercase;
+font-size: 20px;
+margin: 0;
+padding: 0 0 3px 0;
+}

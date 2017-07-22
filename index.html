@@ -1,0 +1,598 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<script type="text/javascript">
+<!--
+ 
+// Disable Right Click Script
+ 
+function IE(e)
+{
+if (navigator.appName == "Microsoft Internet Explorer" && (event.button == "2" || event.button == "3"))
+{
+return false;
+}
+}
+function NS(e)
+{
+if (document.layers || (document.getElementById && !document.all))
+{
+if (e.which == "2" || e.which == "3")
+{
+return false;
+}
+}
+}
+document.onmousedown=IE;document.onmouseup=NS;document.oncontextmenu=new Function("return false");
+ 
+//-->
+</script>
+
+<meta charset="utf-8">
+<title>Breinscope Consultants Limited</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+    
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Evenings v1.0 || ex nihilo || February 2014 -->
+
+
+<!-- style -->
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+<!-- style end -->
+
+
+<!-- the grid -->
+<link rel="stylesheet" type="text/css" media="all" href="css/skeleton.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/media.css">
+<!-- the grid end -->
+
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!--[if gt IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="css/IE.css">
+<![endif]-->
+
+<!--[if gte IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="css/IE.css">
+<![endif]-->
+
+
+</head>
+<body>
+
+
+<!-- screen loader -->
+<div class="screen-loader"></div>
+<!-- screen loader end -->
+
+
+<!-- preload -->
+<div id="preload">
+<!-- preload status -->
+<div id="preload-status"></div>
+<!-- preload status end -->
+</div>
+<!-- preload end -->
+
+
+<!-- curtains -->
+<div id="curtains"></div>
+<!-- curtains end -->
+
+
+<!-- supersized background -->
+<div class="supersized-bg"></div>
+<!-- supersized background end -->
+
+<!-- social icons wrapper -->
+<div class="social-icons-wrapper">
+<!-- social icons -->
+<ul class="social-icons">
+<li><a href="#"><img src="images/social/twitter.png" alt="Twitter"></a></li>
+<li><a href="#"><img src="images/social/facebook.png" alt="Facebook"></a></li>
+<li><a href="#"><img src="images/social/googleplus.png" alt="GooglePlus"></a></li>
+<li><a href="#"><img src="images/social/youtube.png" alt="YouTube"></a></li>
+<li><a href="#"><img src="images/social/linkedin.png" alt="LinkedIn"></a></li>
+</ul>
+<!-- social icons end -->
+</div>
+<!-- social icons wrapper end -->
+
+<!-- supersized wrapper -->
+<div class="supersized-wrapper">
+<!-- supersized -->
+<div class="controls-wrapper">
+<!-- supersized controls -->
+<div id="controls">
+<!-- previous slide -->
+<a id="prevslide" class="load-item"></a>
+<!-- previous slide end -->
+<!-- next slide -->
+<a id="nextslide" class="load-item"></a>
+<!-- next slide end -->
+<!-- play pause -->
+<a id="play-button"><img id="pauseplay" src="images/pause.png" alt="Pause || Play"></a>
+<!-- play pause end -->
+<!-- progress bar -->
+<div id="progress-back" class="load-item">
+<div id="progress-bar"></div>
+</div>
+<!-- progress bar end -->
+</div>
+<!-- supersized controls end -->
+</div>
+<!-- supersized end -->
+</div>
+<!-- supersized wrapper end -->
+
+
+<!-- footer -->
+<div id="footer">
+
+
+<!-- menu -->
+<div class="menu">
+<ul>
+<li><a id="fire-home" class="menu-state active" href="#">Welcome to Breinscope Limited</a></li>
+
+</ul>
+</div>
+<!-- menu end -->
+
+<!-- menu mobile -->
+<div class="menu-mobile">
+<ul>
+<li>
+<ul>
+<li class="lifting"><a id="fire-home-mobile" class="menu-state active" href="#">Welcome to Breinscope Limited</a></li>
+
+</ul>
+<a class="menu-trigger" href="#">Menu</a>
+</li>
+</ul>
+</div>
+<!-- menu mobile end -->
+
+<!-- credits -->
+<div class="credits">
+<ul class="email-us"><li><a class="envelope" href="mailto:you@yoursite.com"><span>Email</span></a></li></ul>
+<span class="address"><a href="http://www.11-76.com/" target="_self">All rights reserved. &copy;<script type="text/javascript">var d = new Date(); document.write(d.getFullYear());</script></a></span>
+</div>
+<!-- credits end -->
+
+<!-- footer background -->
+<div class="footer-bg"></div>
+<!-- footer background end -->
+
+
+</div>
+<!-- footer end -->
+
+
+
+
+
+<!-- upper page -->
+<div id="about" class="lower-page ">
+
+
+<!-- upper content -->
+<div class="lower-content">
+<!-- container -->
+<div class="container center">
+<!-- intro wrapper -->
+<div id="intro-wrapper">
+
+
+
+</div>
+<!-- intro wrapper end -->
+</div>
+<!-- container end -->
+</div>
+<!-- upper content end -->
+
+
+<!-- newsletter animation -->
+<div class="newsletter-animation">
+<ul class="button">
+<li><a class="close">Close</a><a class="open">Open</a></li>
+</ul>
+<!-- newsletter bg -->
+<div class="newsletter-bg">
+
+<!-- newsletter -->
+<div class="newsletter-wrapper">
+<!-- newsletter form -->
+<div id="subscribe-wrapper">
+<div id="newsletter">
+<div class="newsletter">
+<form id="subscribe" method="post" action="subscribe.php" name="subscribe">
+<label class="mail"> EMAIL *</label>
+<input id="subscribeemail" name="subscribeemail" type="text" class="subscriberequiredField subscribeemail">
+<input id="submit" type="submit" value="SUBSCRIBE">
+</form>
+</div>
+</div>
+</div>
+<!-- newsletter form end -->
+</div>
+<!-- newsletter end -->
+
+</div>
+<!-- newsletter bg end -->
+</div>
+<!-- newsletter animation end -->
+
+
+</div>
+<!-- upper page end -->
+
+
+<!-- about -->
+<div id="read-home" class="lower-page current">
+<!-- lower content -->
+<div class="lower-content">
+
+<!-- about intro -->
+<div class="about-intro">
+<h1>Breinscope</h1>
+</div>
+<!-- about intro end -->
+
+<!-- container -->
+<div class="container center">
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider left top -->
+<div class="divider-left-top"></div>
+<!-- divider left top end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider right top -->
+<div class="divider-right-top"></div>
+<!-- divider right top end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- about full -->
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<p>Breinscope Consultants Limited has offices in Nairobi and Kisumu. It is a Kenyan owned was first registered as a consultancy firm in the year 2002, and transformed into a limited liability company in July 2007. Its charge is to ensure that policy makers, senior managers, practitioners and local stakeholders have the knowledge, tools and capacity to make informed choices about performance and service delivery.</p>
+</div>
+<!-- sixteen columns end -->
+<!-- about full end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider blank -->
+<div class="divider-blank"></div>
+<!-- divider blank end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- about column 1 -->
+<!-- one third column -->
+<div class="one-third column">
+<h2>Consultancy</h2>
+<!-- effect 8 -->
+<section class="set-8">
+<div class="hi-icon-wrap hi-icon-effect-8">
+<a href="http://breinscope.com/consultancy.html" class="hi-icon hi-icon-pencil">Consultancy</a></div>
+</section>
+<!-- effect 8 end -->
+
+</div>
+<!-- one third column end -->
+<!-- about column 1 end -->
+
+<!-- about column 2 -->
+<!-- one third column -->
+<div class="one-third column">
+<h2>Agri Business</h2>
+<!-- effect 8 -->
+<section class="set-8">
+<div class="hi-icon-wrap hi-icon-effect-8">
+<a href="http://breinscope.com/agribusiness.html" class="hi-icon hi-icon-star">Agri Business</a></div>
+</section>
+<!-- effect 8 end -->
+
+</div>
+<!-- one third column end -->
+<!-- about column 2 end -->
+
+<!-- about column 3 -->
+<!-- one third column -->
+<div class="one-third column">
+<h2>Utility Management</h2>
+<!-- effect 8 -->
+<section class="set-8">
+<div class="hi-icon-wrap hi-icon-effect-8">
+<a href="http://breinscope.com/utility.html" class="hi-icon hi-icon-contract">Utility Management</a></div>
+</section>
+<!-- effect 8 end -->
+
+</div>
+<!-- one third column end -->
+<!-- about column 3 end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider left bottom -->
+<div class="divider-left-bottom"></div>
+<!-- divider left bottom end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider right bottom -->
+<div class="divider-right-bottom"></div>
+<!-- divider right bottom end -->
+</div>
+<!-- sixteen columns end -->
+
+</div>
+<!-- container end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider fin -->
+<div class="divider-fin"></div>
+<!-- divider fin end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- closer -->
+<div class="fire-closer">
+<a id="fire-about-closer" class="menu-state" href="#"><img src="images/fire-closer.png" alt="Closer"></a>
+</div>
+<!-- closer end -->
+
+</div>
+<!-- lower content end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider fin -->
+<div class="divider-fin"></div>
+<!-- divider fin end -->
+</div>
+<!-- sixteen columns end -->
+
+</div>
+<!-- about end -->
+
+
+<!-- contact -->
+<div id="contact" class="lower-page">
+<!-- lower content -->
+<div class="lower-content">
+
+<!-- contact intro -->
+<div class="contact-intro">
+<h1>Contact</h1>
+</div>
+<!-- contact intro end -->
+
+<!-- container -->
+<div class="container center">
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider left top -->
+<div class="divider-left-top"></div>
+<!-- divider left top end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider right top -->
+<div class="divider-right-top"></div>
+<!-- divider right top end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- contact column 1 -->
+<!-- one third column -->
+<div class="one-third column">
+<div class="info-address">
+<p><strong>Address</strong></p>
+<p>ex nihilo, Inc.<br>
+Touchdown Dr<br>
+1176</p>
+</div>
+</div>
+<!-- one third column end -->
+<!-- contact column 1 end -->
+
+<!-- contact column 2 -->
+<!-- one third column -->
+<div class="one-third column">
+<div class="info-phone">
+<p><strong>Telephone</strong></p>
+<p>[00] 11 - 76<br>
+[01] 11 - 76</p>
+</div>
+</div>
+<!-- one third column end -->
+<!-- contact column 2 end -->
+
+<!-- contact column 3 -->
+<!-- one third column -->
+<div class="one-third column">
+<div class="info-email">
+<p><strong>Email</strong></p>
+<p><a href="mailto:you@yoursite.com">you@yoursite.com</a></p>
+</div>
+</div>
+<!-- one third column end -->
+<!-- contact column 3 end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider blank -->
+<div class="divider-blank"></div>
+<!-- divider blank end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- twitter full -->
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- twitter ticker -->
+<div id="twitter-wrap">
+<!-- twitter logo -->
+<div id="twitter-logo">
+<a class="logo" href="https://twitter.com/enihilo" target="_blank">Twitter</a>
+</div>
+<!-- twitter logo end -->
+<div id="tweets">
+<div id="ticker" class="query"></div>
+</div>
+</div>
+<!-- twitter ticker end -->
+</div>
+<!-- sixteen columns end -->
+<!-- twitter full end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider blank -->
+<div class="divider-blank"></div>
+<!-- divider blank end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- contact form -->
+<div id="form-wrapper">
+<form id="form" method="post" action="send.php" name="send">	
+<div class="holder">
+<div>
+<label>NAME *</label>
+<input id="name" name="name" type="text" class="requiredField name">
+</div>
+<div>
+<label>EMAIL *</label>
+<input id="email" name="email" type="text" class="requiredField email">
+</div>					
+<div>
+<label>SUBJECT *</label>
+<select name="subject" class="requiredField subject">
+<option value="" selected="selected">Choose a Subject</option>
+<option value="Personal Inquiry">Personal Inquiry</option>
+<option value="Business Inquiry">Business Inquiry</option>
+</select>
+</div>
+</div>			
+<div class="holder">
+<div>
+<label>MESSAGE</label>
+<textarea name="message" rows="6" cols="60"></textarea>
+</div>					
+<div>
+<input class="submit" type="submit" value="Submit">
+</div>
+</div>
+</form>
+<div class="clear"></div>
+</div>
+<!-- contact form end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider left bottom -->
+<div class="divider-left-bottom"></div>
+<!-- divider left bottom end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider right bottom -->
+<div class="divider-right-bottom"></div>
+<!-- divider right bottom end -->
+</div>
+<!-- sixteen columns end -->
+
+</div>
+<!-- container end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider fin -->
+<div class="divider-fin"></div>
+<!-- divider fin end -->
+</div>
+<!-- sixteen columns end -->
+
+<!-- closer -->
+<div class="fire-closer">
+<a id="fire-contact-closer" class="menu-state" href="#"><img src="images/fire-closer.png" alt="Closer"></a>
+</div>
+<!-- closer end -->
+
+</div>
+<!-- lower content end -->
+
+<!-- sixteen columns -->
+<div class="sixteen columns">
+<!-- divider fin -->
+<div class="divider-fin"></div>
+<!-- divider fin end -->
+</div>
+<!-- sixteen columns end -->
+
+</div>
+<!-- contact end -->
+
+
+<!-- scripts -->
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/supersized.3.2.7.min.js"></script>
+<script type="text/javascript" src="js/supersized.3.2.7.bg.js"></script>
+<script type="text/javascript" src="theme/supersized.shutter.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
+<script type="text/javascript" src="js/form-contact.js"></script>
+<script type="text/javascript" src="js/form-subscribe.js"></script>
+<script type="text/javascript" src="js/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="js/evenings.js"></script>
+<script type="text/javascript" src="twitter/jquery.tweet.js"></script>
+<script type="text/javascript" src="twitter/ticker.js"></script>
+<script type="text/javascript" src="js/countdown.js"></script>
+<!-- countdown setup -->
+<script type="text/javascript">
+//<![CDATA[
+		$(document).ready(function(){
+		$("#countdown").countdown({
+			date: "23 February 2015 12:00:00",
+			format: "on"
+		},
+			
+		function() {
+			// callback function
+		});
+	  });
+//]]>
+</script>
+<!-- scripts end -->
+
+
+</body>
+</html>
